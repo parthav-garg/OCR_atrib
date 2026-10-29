@@ -1,0 +1,11 @@
+# environment
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# generated outputs (rendered images, checkpoints, results)
+data/rendered/
+checkpoints/
+runs/
+results/

@@ -1,0 +1,12 @@
+# torch/torchvision come from the CUDA index:
+#   pip install torch torchvision --index-url https://download.pytorch.org/whl/cu128
+numpy
+pillow
+matplotlib
+pandas
+scipy
+tqdm
+pytest
+captum   # integrated gradients, occlusion, KernelSHAP, Grad-CAM
+zennit   # LRP rules and canonizers
+wordfreq   # English word frequency lists
