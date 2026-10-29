@@ -9,3 +9,7 @@ data/rendered/
 checkpoints/
 runs/
 results/
+
+# assistant instructions (local only)
+claude.md
+CLAUDE.md
